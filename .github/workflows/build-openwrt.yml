@@ -171,6 +171,7 @@ on:
           - zcube1-max
           - zk-r39a
           - zysj
+          - topeet
       openwrt_kernel:
         description: "Select kernel version"
         required: false
